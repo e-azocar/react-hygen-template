@@ -1,0 +1,13 @@
+{
+  "name": "react-hygen-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/e-azocar/react-hygen-template.git",
+  "author": "Emmanuel Azocar <azocarmel@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "hygen",
+    "template"
+  ]
+}
