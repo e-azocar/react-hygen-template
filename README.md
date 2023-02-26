@@ -17,7 +17,7 @@ Generate a component:
 ```shell
 $ hygen component new --name NAME [--tsx] [--state] [--scss]
 ```
-- **NAME**:Ccomponent name. (**Required**)
+- **NAME**: Component name. (**Required**)
 - **--tsx**: Generate a typescript component. (**Optional**)
 - **--state**: Generate a component with useState hook. (**Optional**)
 - **--scss**: Generate a component with scss file. (**Optional**)
